@@ -1,4 +1,4 @@
-# 🧪 JavaScript Conditionals Practice
+# 🧪 MDN JavaScript Conditionals Practice
 
 This repository contains **my personal solutions** to the conditional logic exercises from the [MDN Web Docs article]([https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Test_your_skills/Conditionals)) titled:  
 **"Test your skills: Conditionals"**.
