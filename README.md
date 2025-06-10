@@ -27,7 +27,7 @@ Check if the login machine is on, and validate the password using a ternary oper
 
 ## 🙋‍♂️ Author
 
-These solutions were written by **Raffy**, based on MDN's practice tasks.  
+These solutions were written by **Raffyakbarsyah**, based on MDN's practice tasks.  
 
 ---
 
